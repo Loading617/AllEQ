@@ -1,2 +1,2 @@
 # AllEQ
-Equalizer For Windows
+System Equalizer For Windows
