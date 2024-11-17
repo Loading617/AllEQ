@@ -1,0 +1,2 @@
+# AllEQ
+Equalizer For Windows
