@@ -1,4 +1,7 @@
-#include <gtk/gtk.h> #include <json-glib/json-glib.h> #include <fstream> #include <iostream>
+#include <gtk/gtk.h> 
+#include <json-glib/json-glib.h> 
+#include <fstream> 
+#include <iostream>
 
 static GtkWidget *sliders[10];
 
